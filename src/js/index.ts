@@ -18,3 +18,4 @@ for (var val in getLiTags){
 let id2Tag = document.getElementById('2');
 id2Tag.setAttribute('class','sundt');
 
+//dfndkfdk
